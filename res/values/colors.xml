@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="group">#336600</color>
+	<color name="black">#000000</color>
+	<color name="grey">#D7D4D4</color>
+	<color name="red">#FF0000</color>
+	<color name="headers">#66A266</color>
+	<color name="groups">#6FA8AA</color>
+	<color name="childs">#BDB76B</color>
+	<color name="headers_circle">#FF9494</color>
+	<color name="groups_circle">#FFFFD6</color>
+</resources>

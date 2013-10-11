@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="TreeViewList">
+		<attr name="collapsible" format="boolean" />
+		<attr name="src_expanded" format="reference|color" />
+		<attr name="src_collapsed" format="reference|color" />
+		<attr name="indent_width" format="dimension" />
+		<attr name="handle_trackball_press" format="boolean" />
+		<attr name="indicator_gravity">
+			<flag name="top" value="0x30" />
+			<flag name="bottom" value="0x50" />
+			<flag name="left" value="0x03" />
+			<flag name="right" value="0x05" />
+			<flag name="center_vertical" value="0x10" />
+			<flag name="fill_vertical" value="0x70" />
+			<flag name="center_horizontal" value="0x01" />
+			<flag name="fill_horizontal" value="0x07" />
+			<flag name="center" value="0x11" />
+			<flag name="fill" value="0x77" />
+			<flag name="clip_vertical" value="0x80" />
+			<flag name="clip_horizontal" value="0x08" />
+		</attr>
+		<attr name="indicator_background" format="reference|color" />
+		<attr name="row_background" format="reference|color" />
+	</declare-styleable>
+</resources>
